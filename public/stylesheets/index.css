@@ -1,0 +1,36 @@
+.header i.icon {
+    font-size: 1.5em;
+}
+body{
+    background-color:#f2f2f2  ;
+}
+.container.main{
+    margin-top: 7.0em;
+}
+
+#form1 {
+    display: inline;
+}
+
+.hidden {
+    display: none;
+}
+
+.button.big {
+    margin-top: 2em;
+}
+
+.description{
+    margin-top: 1.5em;
+}
+
+.meta {
+    color: gray;
+    margin-top: 1.5em;
+}
+.ui.image {
+    margin-bottom: 2em;
+    -webkit-box-shadow: 0px 0px 29px -8px rgba(0,0,0,0.65);
+    -moz-box-shadow: 0px 0px 29px -8px rgba(0,0,0,0.65);
+    box-shadow: 0px 0px 29px -8px rgba(0,0,0,0.65);
+}
